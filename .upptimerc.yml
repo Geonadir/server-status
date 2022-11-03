@@ -3,22 +3,17 @@ owner: Geonadir # Your GitHub organization or username, where this repository li
 repo: server-status # The name of this repository
 
 sites:
-  - name: F-Zite 
-    url: https://app.zite.io
-  - name: B-Zite
-    url: https://app.zite.io/api/v2/sectors
+  - name: Dashboard 
+    url: https://data.geonadir.com
+  - name: API
+    url: https://api.geonadir.com/api/project_coords/ 
     assignees:
         - mahesh-naxa
-  - name: F-Common Feedback Platform 
-    url: https://commonfeedbackplatform.org
+  - name: Landing Page 
+    url: https://geonadir.com
     assignees:
         - mahesh-naxa
-  - name: B-Common Feedback Platform 
-    url: https://commonfeedbackplatform.org/api/v2/sectors
-  - name: F-Zite Manager
-    url: https://app.zitemanager.org/
-  - name: B-Zite Manager
-    url: https://app.zitemanager.org/api/v2/sectors
+
     
 
 status-website:
