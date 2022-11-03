@@ -25,6 +25,7 @@ status-website:
   name: GeoNadir Status Dashboard
   introTitle: "**GeoNadir Status Dashboard** is a uptime monitor and status page for Zite Products"
   introMessage: Check back here to view the current status of the services listed below. If you are experiencing an issue not listed here, please contact Support. 
+  theme: night
   navbar:
     - title: Status
       href: /
