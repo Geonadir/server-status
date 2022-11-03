@@ -1,12 +1,16 @@
 # Change these first
 owner: Geonadir # Your GitHub organization or username, where this repository lives
 repo: server-status # The name of this repository
+user-agent: geonadir-upptime
+favicon: https://data.geonadir.com/favicon.ico
 
 sites:
   - name: Dashboard 
     url: https://data.geonadir.com
-  - name: API
-    url: https://api.geonadir.com/api/project_coords/ 
+  - name: Map POIs
+    icon: https://data.geonadir.com/favicon.ico
+    url: https://api.geonadir.com/api/project_coords/
+    maxResponseTime: 3000
     assignees:
         - mahesh-naxa
   - name: Landing Page 
@@ -17,15 +21,20 @@ sites:
     
 
 status-website:
+  metaTags:
+    - name: "color-scheme"
+      content: "dark light"
+    - name: "robots"
+      content: "noindex"
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
   baseUrl: /server-status
   logoUrl: https://geonadir.com/wp-content/uploads/2021/10/cropped-Geo-nadir-logo-white-01-300x44.png
   name: GeoNadir Status Dashboard
-  introTitle: "**GeoNadir Status Dashboard** is a uptime monitor and status page for Zite Products"
+  introTitle: "**GeoNadir Status Dashboard** is a uptime monitor and status page for GeoNadir"
   introMessage: Check back here to view the current status of the services listed below. If you are experiencing an issue not listed here, please contact Support. 
-  theme: night
+  theme: ocean
   navbar:
     - title: Status
       href: /
