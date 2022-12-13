@@ -40,17 +40,19 @@
     "url": "https://geonadir.com",
     "icon": "https://icons.duckduckgo.com/ip3/geonadir.com.ico",
     "slug": "landing-page",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1288,
-    "timeDay": 1006,
-    "timeWeek": 1073,
-    "timeMonth": 1279,
-    "timeYear": 1288,
-    "dailyMinutesDown": {}
+    "time": 1607,
+    "timeDay": 8496,
+    "timeWeek": 2937,
+    "timeMonth": 1753,
+    "timeYear": 1607,
+    "dailyMinutesDown": {
+      "2022-12-13": 0
+    }
   }
 ]
