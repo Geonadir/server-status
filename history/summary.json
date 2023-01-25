@@ -22,19 +22,19 @@
     "url": "https://api.geonadir.com/api/project_coords/",
     "icon": "https://data.geonadir.com/favicon.ico",
     "slug": "map-po-is",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.56%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.10%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "99.99%",
-    "time": 1475,
-    "timeDay": 12072,
-    "timeWeek": 3989,
-    "timeMonth": 1879,
-    "timeYear": 1475,
+    "time": 1474,
+    "timeDay": 8494,
+    "timeWeek": 3695,
+    "timeMonth": 1862,
+    "timeYear": 1474,
     "dailyMinutesDown": {
-      "2023-01-25": 6
+      "2023-01-25": 13
     }
   },
   {
