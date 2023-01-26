@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 152,
-    "timeDay": 71,
-    "timeWeek": 126,
-    "timeMonth": 128,
-    "timeYear": 152,
+    "time": 151,
+    "timeDay": 64,
+    "timeWeek": 112,
+    "timeMonth": 126,
+    "timeYear": 151,
     "dailyMinutesDown": {}
   },
   {
@@ -23,19 +23,17 @@
     "icon": "https://data.geonadir.com/favicon.ico",
     "slug": "map-po-is",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.54%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
-    "time": 1459,
-    "timeDay": 5418,
-    "timeWeek": 3169,
-    "timeMonth": 1802,
-    "timeYear": 1459,
-    "dailyMinutesDown": {
-      "2023-01-25": 7
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1458,
+    "timeDay": 5533,
+    "timeWeek": 3182,
+    "timeMonth": 1813,
+    "timeYear": 1458,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Landing Page",
@@ -48,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1426,
-    "timeDay": 1011,
-    "timeWeek": 1071,
-    "timeMonth": 1199,
-    "timeYear": 1426,
+    "time": 1424,
+    "timeDay": 1259,
+    "timeWeek": 1092,
+    "timeMonth": 1210,
+    "timeYear": 1424,
     "dailyMinutesDown": {}
   }
 ]
