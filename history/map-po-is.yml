@@ -1,7 +1,7 @@
 url: https://api.geonadir.com/api/project_coords/
-status: down
+status: degraded
 code: 404
-responseTime: 734
-lastUpdated: 2023-04-28T23:08:08.917Z
+responseTime: 4370
+lastUpdated: 2023-04-29T05:39:19.921Z
 startTime: Thu Nov 03 2022 13:12:48 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
