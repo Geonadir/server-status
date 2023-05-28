@@ -9,7 +9,7 @@ sites:
     url: https://data.geonadir.com
   - name: Map POIs
     icon: https://data.geonadir.com/favicon.ico
-    url: https://api.geonadir.com/api/project_coords/
+    url: https://api.geonadir.com/api/dataset_coords/?is_public=true
     maxResponseTime: 3000
     assignees:
         - mahesh-naxa
