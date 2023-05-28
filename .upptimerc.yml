@@ -7,7 +7,7 @@ favicon: https://data.geonadir.com/favicon.ico
 sites:
   - name: Dashboard 
     url: https://data.geonadir.com
-  - name: Map POIs
+  - name: Dataset's on public map
     icon: https://data.geonadir.com/favicon.ico
     url: https://api.geonadir.com/api/dataset_coords/?is_public=true
     maxResponseTime: 3000
