@@ -22,19 +22,19 @@
     "url": "https://api.geonadir.com/api/dataset_coords/?is_public=true",
     "icon": "https://data.geonadir.com/favicon.ico",
     "slug": "dataset-s-on-public-map",
-    "status": "degraded",
-    "uptime": "98.92%",
-    "uptimeDay": "88.31%",
-    "uptimeWeek": "98.33%",
-    "uptimeMonth": "98.92%",
-    "uptimeYear": "98.92%",
-    "time": 2633,
-    "timeDay": 3316,
-    "timeWeek": 2880,
-    "timeMonth": 2633,
-    "timeYear": 2633,
+    "status": "up",
+    "uptime": "98.88%",
+    "uptimeDay": "87.86%",
+    "uptimeWeek": "98.27%",
+    "uptimeMonth": "98.88%",
+    "uptimeYear": "98.88%",
+    "time": 2572,
+    "timeDay": 3191,
+    "timeWeek": 2799,
+    "timeMonth": 2572,
+    "timeYear": 2572,
     "dailyMinutesDown": {
-      "2023-06-08": 167
+      "2023-06-08": 174
     }
   },
   {
