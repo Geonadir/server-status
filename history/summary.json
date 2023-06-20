@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 153,
-    "timeDay": 130,
-    "timeWeek": 126,
-    "timeMonth": 171,
-    "timeYear": 153,
+    "time": 152,
+    "timeDay": 61,
+    "timeWeek": 106,
+    "timeMonth": 169,
+    "timeYear": 152,
     "dailyMinutesDown": {}
   },
   {
@@ -23,16 +23,16 @@
     "icon": "https://data.geonadir.com/favicon.ico",
     "slug": "dataset-s-on-public-map",
     "status": "up",
-    "uptime": "99.44%",
+    "uptime": "99.46%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.44%",
-    "uptimeYear": "99.44%",
-    "time": 2308,
-    "timeDay": 1268,
-    "timeWeek": 1313,
-    "timeMonth": 2308,
-    "timeYear": 2308,
+    "uptimeMonth": "99.46%",
+    "uptimeYear": "99.46%",
+    "time": 2288,
+    "timeDay": 1462,
+    "timeWeek": 1333,
+    "timeMonth": 2288,
+    "timeYear": 2288,
     "dailyMinutesDown": {
       "2023-06-08": 174
     }
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 873,
-    "timeDay": 158,
-    "timeWeek": 198,
-    "timeMonth": 299,
-    "timeYear": 873,
+    "time": 870,
+    "timeDay": 130,
+    "timeWeek": 177,
+    "timeMonth": 294,
+    "timeYear": 870,
     "dailyMinutesDown": {}
   }
 ]
